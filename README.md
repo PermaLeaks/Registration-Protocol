@@ -7,11 +7,11 @@ Anybody with AR wallet can apply. Application is sent on-chain as JSON object
 
 ***Used Tag:***
 
-1-'Content-Type', 'application/json'
-2-'App-Name', 'PermaLeaks' 
-3-'type', 'publisher request'
-4-'version', '0.0.1'
-5-'Applicant', `${nickname}`
+- 'Content-Type', 'application/json'
+- 'App-Name', 'PermaLeaks' 
+- 'type', 'publisher request'
+- 'version', '0.0.1'
+- 'Applicant', `${nickname}`
 
 ***Limitations:***
 - Protocol nicknames are unique. Length: 3 -> 12
